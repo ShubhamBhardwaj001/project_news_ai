@@ -59,7 +59,7 @@ const App = () => {
         <div className={classes.footer}>
           <Typography variant="body1" component="h2">
             Created by
-            <a className={classes.link} href="https://www.linkedin.com/in/adrian-hajdin/"> ShubhamBhardwaj</a> -
+            <a className={classes.link} href="hhttps://www.linkedin.com/in/shubham-bhardwaj-69014b213/"> ShubhamBhardwaj</a> -
             <a className={classes.link} href="http://youtube.com/javascriptmastery"> JavaScript Mastery</a>
           </Typography>
          
